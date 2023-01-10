@@ -13,4 +13,12 @@ Then call the “sortall.sh” file  and wait to finish. Example: ./sortall.sh
  If it has any errors in the screen, please read and find why in the “eachfile.sh” file
 Hope it will help you in the same case. 
 
+Before sorting, it's difficult to compare between Product version and MVX version to get specific code:
+
+![before_sort](https://user-images.githubusercontent.com/78299978/211595500-2652f664-4741-44c6-a4af-c968290e5237.png)
+
+
+After sorted, everything is easily:
+
+![after_sort](https://user-images.githubusercontent.com/78299978/211595578-74a93125-d7ec-4ea5-a4dd-08a36ee16c26.png)
 
