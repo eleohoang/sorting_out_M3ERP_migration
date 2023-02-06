@@ -14,8 +14,10 @@ Then call the “sortall.sh” file  and wait to finish. Example: ./sortall.sh
 Hope it will help you in the same case. 
 
 Test for GLS539OUT:
+
 **Before**:
 ![before](https://user-images.githubusercontent.com/78299978/216901405-bee0e3a9-e4b4-4579-9e1c-92742907eb9f.png)
+
 
 **After**:
 ![after](https://user-images.githubusercontent.com/78299978/216901427-9e5acdd9-c3bd-43ae-867b-70cf73145d95.png)
